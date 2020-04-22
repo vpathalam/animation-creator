@@ -1,0 +1,11 @@
+canvas 10 0 640 225 
+shape S3 rectangle
+shape S4 rectangle
+shape S5 rectangle
+shape S6 rectangle
+shape S7 rectangle
+shape S8 rectangle
+shape S9 rectangle
+shape S0 rectangle
+shape S1 rectangle
+shape S2 rectangle

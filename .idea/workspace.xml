@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hw5:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef348396-a5f6-4ced-864d-0045d6332b83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ytmz4rOJ74wocOLJZw5wJIIl17" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/cs3500" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cs3500.animation.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ControllerTest.testTweening">
+    <configuration name="Exellence" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.animation.Exellence" />
+      <module name="hw5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs3500.animation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs3500.animation.tests" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.animation.tests.ControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest.testNotPlaying" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs3500.animation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs3500.animation.tests" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.animation.tests.ControllerTest" />
+      <option name="METHOD_NAME" value="testNotPlaying" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest.testPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs3500.animation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs3500.animation.tests" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.animation.tests.ControllerTest" />
+      <option name="METHOD_NAME" value="testPlay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ControllerTest.testTweening" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs3500.animation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs3500.animation.tests" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.animation.tests.ControllerTest" />
+      <option name="METHOD_NAME" value="testTweening" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextViewTest.testTextView2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs3500.animation.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs3500.animation.tests" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.animation.tests.TextViewTest" />
+      <option name="METHOD_NAME" value="testTextView2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Exellence" />
+      <item itemvalue="JUnit.ControllerTest" />
+      <item itemvalue="JUnit.ControllerTest.testNotPlaying" />
+      <item itemvalue="JUnit.TextViewTest.testTextView2" />
+      <item itemvalue="JUnit.ControllerTest.testPlay" />
+      <item itemvalue="JUnit.ControllerTest.testTweening" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ControllerTest.testTweening" />
+        <item itemvalue="JUnit.ControllerTest.testPlay" />
+        <item itemvalue="JUnit.ControllerTest.testNotPlaying" />
+        <item itemvalue="JUnit.TextViewTest.testTextView2" />
+        <item itemvalue="JUnit.ControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef348396-a5f6-4ced-864d-0045d6332b83" name="Default Changelist" comment="" />
+      <created>1583770523450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583770523450</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="205" y="207" key="#Project_Structure" timestamp="1585272023624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="205" y="207" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585272023624" />
+    <state x="828" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586048863791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586048863791" />
+    <state x="81" y="525" width="1736" height="729" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586903017377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="81" y="525" width="1736" height="729" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586903017377" />
+    <state x="248" y="348" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586900918559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="248" y="348" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586900918559" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1586902217865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586902217865" />
+    <state x="257" y="288" width="541" height="429" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587508677590">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="343" y="332" width="541" height="429" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586902497606" />
+    <state x="257" y="286" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.825@0.23.1440.825" timestamp="1586972383570" />
+    <state x="257" y="287" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.827@0.23.1440.827" timestamp="1586994499590" />
+    <state x="257" y="288" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.829@0.23.1440.829" timestamp="1587508677590" />
+    <state x="884" y="379" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586971794583">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="1178" y="449" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583770668711" />
+    <state x="884" y="379" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.825@0.23.1440.825" timestamp="1586971794583" />
+    <state x="756" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586650646367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1586650646367" />
+    <state x="158" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586972433228">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="210" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586892379423" />
+    <state x="158" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.825@0.23.1440.825" timestamp="1586972433228" />
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586812077852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586812077852" />
+    <state x="842" y="274" key="#xdebugger.XInspectDialog" timestamp="1586929408848">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="274" key="#xdebugger.XInspectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586929408848" />
+    <state x="715" y="224" key="#xdebugger.evaluate" timestamp="1586930106594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="224" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1586930106594" />
+    <state x="644" y="396" key="FileChooserDialogImpl" timestamp="1586903322218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="644" y="396" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586903322218" />
+    <state width="1505" height="189" key="GridCell.Tab.0.bottom" timestamp="1586937865288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1505" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586937865288" />
+    <state width="1505" height="189" key="GridCell.Tab.0.center" timestamp="1586937865287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1505" height="189" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586937865287" />
+    <state width="1505" height="189" key="GridCell.Tab.0.left" timestamp="1586937865287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1505" height="189" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586937865287" />
+    <state width="1505" height="189" key="GridCell.Tab.0.right" timestamp="1586937865287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1505" height="189" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586937865287" />
+    <state width="1038" height="419" key="GridCell.Tab.1.bottom" timestamp="1586936346128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1038" height="419" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586936346128" />
+    <state width="1038" height="419" key="GridCell.Tab.1.center" timestamp="1586936346128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1038" height="419" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586936346128" />
+    <state width="1038" height="419" key="GridCell.Tab.1.left" timestamp="1586936346128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1038" height="419" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586936346128" />
+    <state width="1038" height="419" key="GridCell.Tab.1.right" timestamp="1586936346128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1038" height="419" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586936346128" />
+    <state x="276" y="23" width="1024" height="827" key="SettingsEditor" timestamp="1587508683410">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="368" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586903299580" />
+    <state x="276" y="23" width="1024" height="825" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1586972387745" />
+    <state x="276" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1586994505191" />
+    <state x="276" y="23" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1587508683410" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1586929996958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1586929996958" />
+    <state x="429" y="326" key="chooseDestDirectoryDialog" timestamp="1586563125185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="429" y="326" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586563125185" />
+    <state x="417" y="417" key="classpath-attribute-editor" timestamp="1585271520171">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="417" y="417" key="classpath-attribute-editor/0.0.1920.1040@0.0.1920.1040" timestamp="1585271520171" />
+    <state x="1097" y="388" key="com.intellij.ide.util.TipDialog" timestamp="1586756513249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1097" y="388" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586756513249" />
+    <state x="814" y="410" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584053252886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="814" y="410" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1584053252886" />
+    <state x="1081" y="68" width="830" height="898" key="dock-window-1" timestamp="1586935333586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1081" y="68" width="830" height="898" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1586935333586" />
+    <state x="947" y="110" width="786" height="898" key="dock-window-2" timestamp="1586937993633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="947" y="110" width="786" height="898" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1586937993633" />
+    <state x="1087" y="504" width="607" height="536" key="find.popup" timestamp="1586931799855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1087" y="504" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586931799855" />
+    <state x="342" y="141" key="new project wizard" timestamp="1585445401172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585445401172" />
+    <state x="702" y="149" key="refactoring.ChangeSignatureDialog" timestamp="1586896939385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="149" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586896939385" />
+    <state x="168" y="265" key="run.anything.popup" timestamp="1586392848074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="168" y="265" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586392848074" />
+    <state x="307" y="322" width="672" height="678" key="search.everywhere.popup" timestamp="1586217114521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="307" y="322" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586217114521" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/cs3500/animation/tests/ControllerTest.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="evv.ePanel.ui" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
